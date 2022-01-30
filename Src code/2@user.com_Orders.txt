@@ -1,0 +1,8 @@
+[30/01/2022 | 17:33:11] :- 
+		Truffle Cake(*with discount) -  INR 720.0
+		Rasmalai(*with discount) -  INR 180.0
+	Total Price (*with discount) =  INR 900.0
+[30/01/2022 | 17:43:42] :- 
+		Tandoori Chicken(*with discount) -  INR 216.0
+		Rasmalai(*with discount) -  INR 180.0
+	Total Price (*with discount) =  INR 396.0

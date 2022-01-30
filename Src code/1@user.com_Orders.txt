@@ -1,0 +1,15 @@
+[30/01/2022 | 13:20:03] :- 
+		Vegan Burger(*with discount) -  INR 288.0
+	Total Price (*with discount) =  INR 288.0
+[30/01/2022 | 13:20:03] :- 
+		Tandoori Chicken(*with discount) -  INR 216.0
+		Vegan Burger(*with discount) -  INR 288.0
+		Truffle Cake(*with discount) -  INR 720.0
+	Total Price (*with discount) =  INR 1224.0
+[30/01/2022 | 16:09:22] :- 
+		Rasmalai(*with discount) -  INR 180.0
+		GolGappe(*with discount) -  INR 47.5
+	Total Price (*with discount) =  INR 227.5
+[30/01/2022 | 17:56:59] :- 
+		Truffle Cake(*with discount) -  INR 720.0
+	Total Price (*with discount) =  INR 720.0

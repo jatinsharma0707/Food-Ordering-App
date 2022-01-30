@@ -1,0 +1,4 @@
+[30/01/2022 | 17:39:27] :- 
+		Vegan Burger(*with discount) -  INR 288.0
+		Rasmalai(*with discount) -  INR 180.0
+	Total Price (*with discount) =  INR 468.0
