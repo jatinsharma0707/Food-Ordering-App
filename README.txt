@@ -1,5 +1,5 @@
 Hii...
-This is food ordering app.
+This is a food ordering app.
 ------------------------------------------------------------
 Designed and Coded by - JATIN SHARMA 
 ------------------------------------------------------------
